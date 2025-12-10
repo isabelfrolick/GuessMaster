@@ -1,6 +1,6 @@
-# GuessMaster Game
+# BirthdayGuesser Game
 
-This repository contains three versions of **GuessMaster**, a console-based game where users guess the birthdays of people. Each version adds features and complexity beyond the previous one.
+This repository contains BirthdayGuesser, a console-based game where users guess the birthdays of people. Each version adds features and complexity beyond the previous one.
 
 ---
 
